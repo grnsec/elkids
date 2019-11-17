@@ -34,8 +34,6 @@ export SURICATA_DNS_FAILED_CACHE_TTL=3600
 
 # Elasticsearch connection settings
 export SURICATA_ES_HOST=127.0.0.1
-export SURICATA_ES_USER=elastic
-export SURICATA_ES_PASSWD=changeme
 
 # Beats input
 export SURICATA_BEATS_HOST=0.0.0.0
